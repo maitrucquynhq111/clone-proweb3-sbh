@@ -1,0 +1,19 @@
+{
+  "po_code": "Mã phiếu",
+  "sku_ingredient": "Sản phẩm / Nguyên vật liệu",
+  "category_name": "Phân loại",
+  "quantity": "Số lượng",
+  "value": "Giá trị",
+  "action": "Hành động",
+  "empty_state": "Chưa có giá trị nhập xuất nào",
+  "type": {
+    "product": "Sản phẩm",
+    "ingredient": "Nguyên vật liệu"
+  },
+  "analytics": {
+    "first_period": "Tồn đầu kỳ",
+    "inbound_in_period": "Nhập trong kỳ",
+    "outbound_in_period": "Xuất trong kỳ",
+    "last_period": "Tồn cuối kỳ"
+  }
+}

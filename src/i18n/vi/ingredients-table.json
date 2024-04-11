@@ -1,0 +1,10 @@
+{
+  "name": "Tên nguyên vật liệu",
+  "uom": "Đơn vị",
+  "historical_cost": "Giá vốn",
+  "inventory": "Tồn kho",
+  "inventory_value": "Giá trị kho",
+  "empty_state_1": "Chưa có nguyên vật liệu nào trong cửa hàng.",
+  "empty_state_2": "Tạo ngay để quản lý, đối chiếu dễ dàng hơn!",
+  "tooltip_warning": "Tồn kho thấp"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Tên nhóm",
+  "number_of_contact": "Số lượng",
+  "total_receivable": "Tổng phải thu",
+  "total_paid": "Tổng phải trả",
+  "contact_group": "Nhóm khách hàng",
+  "export_contact": {
+    "title": "Chọn tệp tải về",
+    "export_all": "Toàn bộ thông tin khách hàng",
+    "export_by_group": "Theo nhóm khách hàng được chọn"
+  },
+  "error": {
+    "not_select_group": "Vui lòng chọn nhóm khách hàng cần tải về"
+  },
+  "success": {
+    "export": "Tải danh sách khách hàng thành công"
+  }
+}

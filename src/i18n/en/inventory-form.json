@@ -1,0 +1,12 @@
+{
+  "more_inventory_info": "More inventory information",
+  "historical_cost": "Historical cost",
+  "inventory": "Inventory",
+  "action": {
+    "open_inventory": "Turn on inventory"
+  },
+  "success": {
+    "open_inventory": "Turn on inventory successfully",
+    "update_sku_inventory": "Inventory update successful"
+  }
+}

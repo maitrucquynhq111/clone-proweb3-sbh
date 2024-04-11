@@ -1,0 +1,102 @@
+{
+  "import-goods-info": "Thông tin nhập hàng",
+  "export-goods-info": "Thông tin xuất hàng",
+  "import-products": "Sản phẩm nhập hàng",
+  "export-products": "Danh sách xuất hàng",
+  "supplier": "Nhà cung cấp",
+  "classify": "Phân loại",
+  "more-information": "Thông tin thêm",
+  "note": "Ghi chú",
+  "inventory": "Tồn kho",
+  "transaction_images": "Ảnh giao dịch",
+  "at_least_one_product_import_goods": "Phải có ít nhất một sản phẩm/nguyên vật liệu trong đơn nhập hàng!",
+  "at_least_one_product_export_goods": "Phải có ít nhất một sản phẩm/nguyên vật liệu trong đơn xuất hàng!",
+  "must-pay": "Tôi phải trả",
+  "must-receive": "Tôi phải thu",
+  "total-quantity": "Tổng số lượng",
+  "total-price-product": "Tổng tiền hàng",
+  "grand-total-price": "Tổng cộng",
+  "total-discount": "Chiết khấu",
+  "buyer-pay": "Đã đưa",
+  "debt_paid": "Đã trả",
+  "delivery": "Vận chuyển",
+  "debit": "Ghi nợ",
+  "created_by": "Tạo bởi",
+  "surcharge": "Chi phí phát sinh",
+  "supplier_info": "Thông tin nhà cung cấp",
+  "refund": "Hoàn tiền",
+  "save_to_cashbook": "Ghi lại giao dịch vào thu/chi",
+  "debitited": "Đã ghi nợ",
+  "payment_source": "Nguồn tiền",
+  "change_money": "Tiền thừa",
+  "ticket": {
+    "import_goods_ticket": "Phiếu nhập hàng",
+    "export_goods_ticket": "Phiếu xuất hàng",
+    "creator": "Người tạo",
+    "time": "Giờ",
+    "date_import": "Ngày nhập",
+    "date_export": "Ngày xuất",
+    "note": "Ghi chú",
+    "pricing": "Đơn giá",
+    "pricing-total": "Thành tiền",
+    "quantity": "SL",
+    "name": "Tên",
+    "need_to_pay_supplier": "Cần trả NCC",
+    "paid_supplier": "Đã trả NCC",
+    "paid_remaining_supplier": "Còn phải trả"
+  },
+  "modal": {
+    "cancel_import_goods": "Hủy đơn nhập hàng",
+    "cancel_import_goods_description": "Các giao dịch liên quan đến đơn nhập hàng này sẽ bị xóa. Bạn muốn xóa giao dịch liên quan?",
+    "cancel_export_goods": "Hủy phiếu xuất hàng",
+    "cancel_export_goods_description": "Thông tin phiếu xuất hàng sẽ bị huỷ. Bạn có chắc rằng muốn thực hiện?",
+    "delete_export_goods": "Xóa phiếu xuất hàng",
+    "delete_export_goods_description": "Toàn bộ thông tin phiếu xuất hàng sẽ bị xóa. Bạn có chắc muốn thực hiện?",
+    "exit_not_save": "Huỷ cập nhật phiếu xuất hàng?",
+    "exit_not_save_description": "Thông tin phiếu xuất hàng vừa cập nhật sẽ không được lưu khi bấm Quay về"
+  },
+  "action": {
+    "download": "Tải phiếu",
+    "print": "In phiếu",
+    "save": "Lưu phiếu"
+  },
+  "placeholder": {
+    "contact": "Nhập tên / số điện thoại nhà cung cấp",
+    "description": "Thêm ghi chú cho đơn nhập",
+    "search_product": "Tìm tên sản phẩm, mã SKU, nguyên vật liệu"
+  },
+  "empty_state": {
+    "summary-purchase": "Chưa có sản phẩm nào trong đơn nhập hàng này!",
+    "summary-adjust": "Tìm và chọn sản phẩm / nguyên vật liệu để bắt đầu xuất hàng!"
+  },
+  "sku-table": {
+    "sku": "SKU",
+    "product": "Sản phẩm",
+    "quantity": "SL nhập",
+    "quantity-export": "SL xuất",
+    "after-decrease": "Sau giảm",
+    "historical_cost": "Giá vốn",
+    "total_price": "Tổng tiền"
+  },
+  "ingredient-table": {
+    "ingredient": "Nguyên vật liệu",
+    "uom": "Đơn vị",
+    "quantity": "SL nhập",
+    "quantity-export": "SL xuất",
+    "historical_cost": "Giá vốn",
+    "total_price": "Tổng tiền"
+  },
+  "success": {
+    "create-import-goods": "Tạo nhập hàng mới thành công",
+    "create-export-goods": "Tạo phiếu xuất hàng thành công",
+    "save-export-goods": "Lưu phiếu xuất hàng thành công",
+    "download": "Tải phiếu nhập hàng thành công",
+    "cancel-purchase": "Huỷ phiếu nhập hàng thành công",
+    "payment_purchase": "Thanh toán đơn nhập hàng thành công",
+    "delete_export_goods": "Xóa phiếu xuất hàng thành công"
+  },
+  "error": {
+    "max_image_length": "Tối đa 3 hình ảnh",
+    "min_payment_amount": "Số tiền thanh toán phải lớn hơn 0"
+  }
+}

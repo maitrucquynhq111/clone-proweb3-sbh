@@ -1,0 +1,40 @@
+{
+  "printer_setting_guide": "Printer installation instructions",
+  "export_pdf": "Export PDF file",
+  "printing_products": "Stamp printing products",
+  "select_paper_size": "Choose the paper size",
+  "select_size_quantity": "Choose size, quantity",
+  "stamp_template": "Stamp template",
+  "create_product": "Create product",
+  "print_size": {
+    "name": "Name",
+    "price": "Price",
+    "barcode": "SKU code",
+    "size_2_stamps": "Size 2 stamps",
+    "size_3_stamps": "Size 3 stamps",
+    "size_a4": "Size A4",
+    "size_a5": "Size A5",
+    "size_72x22": "Size 72x22 mm (2.83x0.86 inch)",
+    "size_74x22": "Size 74x22 mm (2.91x0.86 inch)",
+    "size_110x22": "Size 110x22 mm (4.33x0.86 inch)",
+    "size_tomy_no138": "Tomy No.138 - 100 stamps",
+    "size_tomy_no145": "Tomy No.145 - 65 stamps",
+    "size_tomy_no146": "Tomy No.146 - 180 stamps",
+    "size_tomy_no108": "Tomy No.108 - 40 stamps"
+  },
+  "sku-table": {
+    "sku": "SKU",
+    "product": "Product",
+    "quantity": "Quantity",
+    "quantity_print": "Quantity",
+    "retail_price": "Retail price"
+  },
+  "empty_state": {
+    "summary": "You do not have any products to print stamps!"
+  },
+  "warning": {
+    "please_update_sku_code": "Please update sku code",
+    "please_choose_product_print": "Please select the product for stamp printing",
+    "please_choose_size_print": "Please select the paper size"
+  }
+}

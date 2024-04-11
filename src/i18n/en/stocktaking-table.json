@@ -1,0 +1,12 @@
+{
+  "po_code": "PO code",
+  "created_at": "Created at",
+  "staff_info": "Staff",
+  "status": "Status",
+  "difference": "Difference",
+  "processing": "Inventory checking",
+  "completed": "Balanced inventory",
+  "cancelled": "Cancelled",
+  "empty_state": "You do not have any inventory slip",
+  "empty_state_product": "Create your first product now to start managing your inventory professionally!"
+}

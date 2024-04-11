@@ -1,0 +1,72 @@
+{
+  "current_points": "Điểm hiện tại",
+  "total_points_changed": "Tổng điểm đã đổi",
+  "edit_point_history": "Lịch sử sửa điểm",
+  "created_by": "Tạo bởi",
+  "edit_point": "Chỉnh sửa điểm",
+  "last_updated": "Lần cuối cập nhật",
+  "change_current_point": "Sửa điểm hiện tại",
+  "will": "Sẽ",
+  "compare_with_previous": "so với điểm trước đó",
+  "delete_note": "Xoá ghi chú khách hàng",
+  "delete_note_description": "Bạn có chắc rằng muốn thực hiện?",
+  "order": "đơn",
+  "connected": "Liên hệ",
+  "placeholder": {
+    "contact_note": "Nhập ghi chú và nhấn Enter để lưu"
+  },
+  "top_bought_products": {
+    "index": "STT",
+    "product": "Sản phẩm",
+    "number_of_bought": "Số lần mua"
+  },
+  "details-tab": {
+    "overview": "Tổng quan",
+    "message": "Tin nhắn",
+    "order": "Đơn hàng",
+    "points": "Tích điểm",
+    "debt": "Sổ nợ"
+  },
+  "analytics": {
+    "revenue": "Doanh thu",
+    "delivered_order": "Đơn đã giao",
+    "debt": "Công nợ",
+    "return_order": "Trả hàng"
+  },
+  "empty_state": {
+    "phone_number": "Chưa có số điện thoại",
+    "email": "Chưa có email",
+    "birthday": "Chưa có ngày sinh",
+    "address": "Chưa có địa chỉ",
+    "no_bought_product": "Khách hàng chưa mua sản phẩm nào bên bạn.",
+    "no_interaction": "Chưa có tương tác nào với khách này.",
+    "contact_label": "Gắn nhãn cho khách hàng để phân loại và sắp xếp theo nhóm.",
+    "contact_group": "Phân loại khách hàng vào các nhóm lớn dựa trên các tiêu chí rộng hơn để tạo chiến lược tiếp thị và quản lý khách hàng.",
+    "customer_point": "Khách hàng này cần có số điện thoại để được tích điểm."
+  },
+  "title": {
+    "contact_info": "Thông tin khách hàng",
+    "top_bought_products": "Top sản phẩm mua nhiều",
+    "last_order": "Đơn hàng gần nhất",
+    "interaction_history": "Lịch sử tương tác",
+    "contact_label": "Nhãn khách hàng",
+    "contact_group": "Nhóm khách hàng",
+    "customer_point": "Tích điểm",
+    "note": "Ghi chú"
+  },
+  "action": {
+    "add_phone_number": "Thêm số điện thoại",
+    "create_transaction": "Tạo giao dịch",
+    "create_order": "Tạo đơn hàng",
+    "create_debt_gave": "Tạo nợ: Tôi đã đưa",
+    "create_debt_paid": "Tạo nợ: Tôi đã trả",
+    "update_point": "Sửa tích điểm",
+    "group_management": "Quản lý nhóm",
+    "label_management": "Quản lý nhãn"
+  },
+  "success": {
+    "create_note": "Tạo ghi chú thành công",
+    "update_note": "Cập nhật ghi chú thành công",
+    "delete_note": "Xoá ghi chú thành công"
+  }
+}

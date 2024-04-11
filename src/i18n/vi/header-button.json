@@ -1,0 +1,74 @@
+{
+  "orders-table": {
+    "create": "Tạo đơn hàng"
+  },
+  "products-table": {
+    "create": "Tạo sản phẩm",
+    "create-multi": "Thêm nhiều sản phẩm"
+  },
+  "products-addon-table": {
+    "create": "Tạo nhóm bán kèm"
+  },
+  "contacts-table": {
+    "create": "Tạo khách hàng",
+    "new_contact": "Khách hàng mới",
+    "create-multi": "Thêm nhiều khách hàng"
+  },
+  "contacts-groups-table": {
+    "create": "Tạo nhóm khách hàng",
+    "export_contact": "Tải khách hàng"
+  },
+  "cashbook-table": {
+    "transaction": {
+      "create": "Tạo giao dịch",
+      "create-income": "Khoản thu",
+      "create-outcome": "Khoản chi"
+    },
+    "debt": {
+      "create": "Tạo giao dịch",
+      "create-sent": "Tôi đã đưa",
+      "create-received": "Tôi đã nhận",
+      "payment": "Thanh toán"
+    },
+    "list": {
+      "create": "Tạo giao dịch",
+      "create-sent": "Tôi đã đưa",
+      "create-received": "Tôi đã nhận",
+      "paid": "Thanh toán"
+    }
+  },
+  "inventory-table": {
+    "create-transaction": "Tạo giao dịch",
+    "import-goods": "Nhập hàng",
+    "export-goods": "Xuất hàng",
+    "stocktaking": "Kiểm kho"
+  },
+  "inventory-import-book-table": {
+    "create": "Tạo nhập hàng"
+  },
+  "inventory-export-book-table": {
+    "create": "Tạo xuất hàng"
+  },
+  "ingredients-table": {
+    "create": "Tạo nguyên vật liệu",
+    "new": "Nguyên vật liệu mới",
+    "create-multi": "Thêm nhiều nguyên vật liệu"
+  },
+  "recipe-table": {
+    "create": "Tạo công thức"
+  },
+  "ecommerce": {
+    "add": "Thêm gian hàng",
+    "shopee": "Shopee",
+    "lazada": "Lazada",
+    "tiktok_shop": "Tiktok Shop"
+  },
+  "stocktaking-table": {
+    "create": "Tạo phiếu kiểm kho"
+  },
+  "export-data": {
+    "export-file": "Xuất file",
+    "view-online": "Xem online",
+    "download-excel": "Tải Excel"
+  }
+}

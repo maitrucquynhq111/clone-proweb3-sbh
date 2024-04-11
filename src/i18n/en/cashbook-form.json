@@ -1,0 +1,44 @@
+{
+  "create_income": "Create income",
+  "create_outcome": "Create payment",
+  "detail_income": "Detail income",
+  "detail_outcome": "Detail outcome",
+  "payment_source": "Source of money",
+  "payment_source_name": "Name of money source",
+  "amount": "Amount",
+  "debit": "Debit",
+  "balance": "Initial balance",
+  "category": "category",
+  "description": "Note",
+  "cashbook_category_name": "Category name",
+  "transaction_images": "Transaction image",
+  "contact": "Contact",
+  "reminder_day": "Reminder day",
+  "received": "I received",
+  "gave": "I gave",
+  "order_repayment": "Order repayment",
+  "po_repayment": "Repayment of import inventory",
+  "payment": "Payment",
+  "category_order": "Sales",
+  "category_po": "Import inventory",
+  "debt_repayment": "Debt repayment",
+  "placeholder": {
+    "payment_source": "Select money source",
+    "payment_source_name": "Example: Transfer",
+    "transaction_time": "Transaction time",
+    "category": "Select a category",
+    "description": "Enter a note for this transaction",
+    "cashbook_category_name": "Example: Eating, shopping,...",
+    "contact": "Select contact"
+  },
+  "action": {
+    "create_payment": "Add source of money",
+    "create_category": "Add taxonomy"
+  },
+  "error": {
+    "min_amount": "Amount must be greater than 0",
+    "type_number": "Only numbers can be entered",
+    "max_length": "Only enter up to 10 numbers",
+    "max_image_length": "Max 4 images"
+  }
+}

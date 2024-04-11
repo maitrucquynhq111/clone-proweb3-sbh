@@ -1,0 +1,99 @@
+{
+  "orders-table": {
+    "search": "Search by Order number/ Name/ Phone number",
+    "search-offline": "Search by Name/ Phone number",
+    "daterange": "From date - To date",
+    "type": "Channel",
+    "payment_source_type": "Payment Source",
+    "creator_id": "Creator",
+    "payment_status": "Payment Status",
+    "pos": "Store",
+    "website": "Website"
+  },
+  "products-table": {
+    "search": "Filter Product name/ SKU code",
+    "category": "Category"
+  },
+  "products-addon-table": {
+    "search": "Search addon group name"
+  },
+  "contacts-table": {
+    "search": "Find customers",
+    "tag": "Tag"
+  },
+  "contacts-groups-table": {
+    "search": "Customer group name"
+  },
+  "cashbook-table": {
+    "search": "Search Transaction",
+    "daterange": "From date - To date"
+  },
+  "debt-table": {
+    "search": "Search Customer/Parner",
+    "options": "Filter by",
+    "sort": "View by",
+    "sort-values": {
+      "sort_transaction_new": "Lastest Transaction",
+      "sort_transaction_old": "Oldest Transaction",
+      "amount": "Amount Desc",
+      "az": "A-Z"
+    },
+    "options-values": {
+      "in": "Debt in",
+      "out": "Debt out",
+      "debt_reminder": "Debt reminder",
+      "no_debt_reminder": "No debt reminder"
+    }
+  },
+  "inventory-table": {
+    "search": "Find product names, ingredients",
+    "daterange": "From date - To date",
+    "type": "Type",
+    "category": "Category",
+    "staff": "Staff",
+    "supplier": "Supplier"
+  },
+  "inventory-import-book-table": {
+    "search": "Find the import code",
+    "daterange": "From date - To date",
+    "payment_state": "Payment state",
+    "type": "Type",
+    "supplier": "Supplier"
+  },
+  "inventory-export-book-table": {
+    "search": "Find the export code",
+    "daterange": "From date - To date",
+    "status": "Status",
+    "type": "Type"
+  },
+  "print-barcode": {
+    "search": "Search SKU/Product Name"
+  },
+  "ingredients-table": {
+    "search": "Search by ingredients name"
+  },
+  "recipe-table": {
+    "search": "Search by recipe name"
+  },
+  "commission-table": {
+    "search": "Search by name/ phone number",
+    "sender_phone": "Search by presenter's phone number",
+    "upgrade_package": "Upgrade package",
+    "non_upgrade": "Non upgrage",
+    "month_6": "Pro 6 months",
+    "year_1": "Pro 1 year",
+    "year_2": "Pro 2 years",
+    "year_3": "Pro 3 years",
+    "plus_year_1": "Plus 1 year"
+  },
+  "stocktaking-table": {
+    "all": "All",
+    "search": "Find code of po code",
+    "product": "Product",
+    "ingredient": "ingredient",
+    "product_type": "Type of goods",
+    "search_staff": "Find staff",
+    "staff": "Staff",
+    "daterange": "From date - To date"
+  }
+}

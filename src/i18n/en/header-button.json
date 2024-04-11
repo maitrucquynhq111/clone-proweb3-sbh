@@ -1,0 +1,73 @@
+{
+  "orders-table": {
+    "create": "Create order"
+  },
+  "products-table": {
+    "create": "Create product",
+    "create-multi": "Create multi products"
+  },
+  "products-addon-table": {
+    "create": "Create addon"
+  },
+  "contacts-table": {
+    "create": "Create customer",
+    "new_contact": "New customer",
+    "create-multi": "Create multi customers"
+  },
+  "contacts-groups-table": {
+    "create": "Tạo customers group",
+    "export_contact": "Export contacts"
+  },
+  "cashbook-table": {
+    "transaction": {
+      "create": "Create transaction",
+      "create-income": "Create income",
+      "create-outcome": "Create outcome"
+    },
+    "debt": {
+      "create": "Create transaction",
+      "create-sent": "I did give",
+      "create-received": "I did received",
+      "payment": "Payment"
+    },
+    "list": {
+      "create": "Create transaction",
+      "create-income": "Create income",
+      "create-outcome": "Create outcome"
+    }
+  },
+  "inventory-table": {
+    "create-transaction": "Create transaction",
+    "import-goods": "Create import goods",
+    "export-goods": "Export goods",
+    "stocktaking": "Stocktaking"
+  },
+  "inventory-import-book-table": {
+    "create": "Create import goods"
+  },
+  "inventory-export-book-table": {
+    "create": "Create export goods"
+  },
+  "ingredients-table": {
+    "create": "Create ingredients",
+    "new": "New ingredients",
+    "create-multi": "Create multi ingredients"
+  },
+  "recipe-table": {
+    "create": "Create recipe"
+  },
+  "ecommerce": {
+    "add": "Add store",
+    "shopee": "Shopee",
+    "lazada": "Lazada",
+    "tiktok_shop": "Tiktok Shop"
+  },
+  "stocktaking-table": {
+    "create": "Create inventory slip"
+  },
+  "export-data": {
+    "export-file": "Export file",
+    "view-online": "View online",
+    "download-excel": "Download Excel"
+  }
+}

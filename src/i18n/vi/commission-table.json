@@ -1,0 +1,15 @@
+{
+  "presentee": "Người được giới thiệu",
+  "presenter": "Người giới thiệu",
+  "presentee_phone_number": "Số điện thoại người được giới thiệu",
+  "upgrade_package": "Gói nâng cấp",
+  "total_upgrade_package": "Tổng số gói nâng cấp",
+  "payment_amount": "Số tiền thanh toán gói",
+  "upgrade_date": "Ngày nâng cấp",
+  "commission_percent": "Phần trăm hoa hồng",
+  "commission_amount": "Hoa hồng thực nhận",
+  "non_upgrade": "Chưa nâng cấp",
+  "package_pro_duration_year": "Pro {{count}} năm",
+  "package_pro_duration_month": "Pro {{count}} tháng",
+  "package_plus_duration_year": "Plus {{count}} năm"
+}

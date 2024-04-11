@@ -1,0 +1,11 @@
+{
+  "created_at": "Thời gian",
+  "start_time": "Thời gian",
+  "customer-name": "Khách hàng / Đối tác",
+  "must-receive": "Đã nhận",
+  "must-spent": "Đã đưa",
+  "date": "Ngày nhắc nợ",
+  "payment": "Thanh toán",
+  "create_at": "Thời gian",
+  "description": "Mô tả"
+}

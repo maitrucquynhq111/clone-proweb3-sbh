@@ -1,0 +1,24 @@
+{
+  "debtbook-in": "Tạo đã nhận",
+  "debtbook-out": "Tạo đã đưa",
+  "contact": "Khách hàng",
+  "amount": "Số tiền",
+  "transaction_time": "Thời gian giao dịch",
+  "description": "Ghi chú",
+  "transaction_images": "Ảnh giao dịch",
+  "cashbook_record": "Ghi lại vào giao dịch thu chi",
+  "payment_source": "Nguồn tiền",
+  "payment": "Thanh toán",
+  "order_payment": "Thanh toán cho đơn hàng",
+  "po_payment": "Thanh toán cho đơn nhập hàng",
+  "placeholder": {
+    "description": "Nhập ghi chú cho giao dịch này",
+    "cashbook_category_name": "Ví dụ: Ăn uống, mua sắm,...",
+    "contact": "Chọn khách hàng"
+  },
+  "error": {
+    "min_amount": "Số tiền phải lớn hơn 0",
+    "max_amount": "Số tiền thanh toán phải nhỏ hơn hoặc bằng số tiền ghi nợ",
+    "max_image_length": "Tối đa 4 hình ảnh"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "category_name": "Phân loại",
+  "created_at": "Thời gian",
+  "day": "Thời gian",
+  "transaction_type": "Thu/Chi",
+  "object_key": "Mã giao dịch",
+  "amount": "Tổng chi/Tổng thu",
+  "total_in": "Tổng thu",
+  "total_out": "Tổng chi",
+  "payment_source_name": "Nguồn tiền",
+  "description": "Mô tả",
+  "status": "Trạng thái",
+  "action": "Action",
+  "received": "Đã thu",
+  "must-received": "Phải thu",
+  "paid": "Đã chi",
+  "must-pay": "Phải chi"
+}

@@ -1,0 +1,64 @@
+{
+  "stocktaking_list": "Danh sách kiểm kho",
+  "search_to_stock_take": "Tìm và chọn sản phẩm / nguyên vật liệu để bắt đầu kiểm hàng",
+  "transation_image": "Ảnh giao dịch",
+  "product": "Sản phẩm",
+  "ingredient": "Nguyên vật liệu",
+  "total_before_change_quantity": "Số lượng tồn kho hệ thống",
+  "total_after_change_quantity": "Số lượng tồn kho thực tế",
+  "stock": "Kho",
+  "system_stock": "Kho hệ thống",
+  "real_stock": "Kho thực tế",
+  "total_quantity_short": "SL lệch",
+  "total_quantity": "Số lượng chênh lệch",
+  "transaction_images": "Ảnh giao dịch",
+  "note": "Ghi chú",
+  "created_by": "Tạo bởi",
+  "stocktake_receipt": "Phiếu kiểm kho",
+  "receipt_code": "Mã phiếu",
+  "status": "Trạng thái",
+  "create_staff": "Nhân viên tạo",
+  "created_at": "Ngày tạo",
+  "balanced_staff": "Nhân viên cân bằng",
+  "balanced_at": "Ngày cân bằng",
+  "real_stock_receipt": "Tồn thực tế",
+  "system_stock_receipt": "Tồn hệ thống",
+  "total_quantity_receipt": "Lệch",
+  "uom": "Đơn vị",
+  "placeholder": {
+    "note": "Thêm ghi chú cho đơn nhập",
+    "search": "Tìm tên sản phẩm, mã SKU, nguyên vật liệu"
+  },
+  "action": {
+    "open_inventory": "Bật tồn kho",
+    "save_receipt": "Lưu phiếu",
+    "complete": "Hoàn thành",
+    "delete_receipt": "Xóa phiếu",
+    "download_receipt": "Tải phiếu",
+    "print_receipt": "In phiếu"
+  },
+  "empty": {
+    "product": "Chưa tìm thấy kết quả phù hợp",
+    "product_ingredient": "Tìm và chọn sản phẩm / nguyên vật liệu để bắt đầu kiểm hàng"
+  },
+  "success": {
+    "save_receipt": "Lưu phiếu kiểm kho thành công",
+    "complete": "Đã cân bằng kho thành công",
+    "delete_receipt": "Xoá phiếu kiểm kho thành công"
+  },
+  "error": {
+    "max_image_length": "Tối đa 3 hình ảnh",
+    "empty_sku_ingrident": "sản phẩm / nguyên vật liệu chưa nhập tồn kho thực tế",
+    "at_least_one_item": "Cần ít nhất 1 sản phẩm / nguyên vật liệu"
+  },
+  "modal": {
+    "confirm_stock_balance": "Xác nhận cân bằng kho?",
+    "stock_balance_desc": "Có {{sku_count}} sản phẩm, {{ingredient_count}} nguyên vật liệu sẽ được cân bằng kho do có chênh lệch sau khi Kiểm kho",
+    "stock_balance_desc_sku": "Có {{sku_count}} sản phẩm sẽ được cân bằng kho do có chênh lệch sau khi Kiểm kho",
+    "stock_balance_desc_ingredient": "Có {{ingredient_count}} nguyên vật liệu sẽ được cân bằng kho do có chênh lệch sau khi Kiểm kho",
+    "exit_without_save_title": "Huỷ cập nhật phiếu kiểm kho?",
+    "exit_without_save_desc": "Thông tin phiếu kiểm kho vừa cập nhật sẽ không được lưu. Bạn có chắc rằng muốn thực hiện?",
+    "cancel_receipt_title": "Hủy phiếu kiểm kho?",
+    "cancel_receipt_desc": "Toàn bộ thông tin phiếu kiểm kho sẽ bị hủy. Bạn có chắc muốn thực hiện?"
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "root": {
+    "title": "Home",
+    "name": "Home"
+  },
+  "todo": {
+    "title": "To do",
+    "name": "To do"
+  },
+  "sales": "Sales",
+  "goods": "Goods",
+  "channel": "Channel",
+  "finance": "Finance",
+  "customer": "Customer",
+  "staff": "Staff",
+  "report": "Report",
+  "pos": "POS",
+  "orders": {
+    "title": "Orders",
+    "name": "Orders"
+  },
+  "products": {
+    "title": "Products",
+    "name": "Products",
+    "productsList": {
+      "title": "Products",
+      "name": "Products"
+    },
+    "productDetails": {
+      "title": "Product Details",
+      "name": "Product Details"
+    },
+    "productsAddon": {
+      "title": "Addons",
+      "name": "Addons"
+    },
+    "printBarCode": {
+      "title": "Print BarCode",
+      "name": "Print BarCode"
+    }
+  },
+  "website": {
+    "title": "Website",
+    "name": "Website"
+  },
+  "ecom": {
+    "title": "All store",
+    "name": "Ecommerce"
+  },
+  "social": {
+    "title": "Social",
+    "name": "Social"
+  },
+  "staffManagement": {
+    "title": "Staff management",
+    "name": "Staff management"
+  },
+  "role": {
+    "title": "Role",
+    "name": "Role"
+  },
+  "reportPNL": {
+    "title": "Report PNL",
+    "name": "Report PNL"
+  },
+  "reportRevenue": {
+    "title": "Report revenue",
+    "name": "Report revenue"
+  },
+  "reportTransaction": {
+    "title": "Report transaction",
+    "name": "Report transaction"
+  },
+  "reportInventory": {
+    "title": "Report inventory",
+    "name": "Report inventory"
+  },
+  "orderDetails": {
+    "title": "Order Details",
+    "name": "Order Details"
+  },
+  "contacts": {
+    "title": "Contacts",
+    "name": "Contacts",
+    "contactsDetails": {
+      "title": "Customer details",
+      "name": "Customer details"
+    },
+    "contactsList": {
+      "title": "Customer list",
+      "name": "Contact"
+    },
+    "contactsGroups": {
+      "title": "Group management",
+      "name": "Group management"
+    }
+  },
+  "cashbook": {
+    "title": "Cashbook",
+    "name": "Cashbook",
+    "transaction": {
+      "title": "Transaction history",
+      "name": "Transaction"
+    },
+    "cashbookList": {
+      "title": "All Cashbook",
+      "name": "All Cashbook"
+    },
+    "cashbookDebt": {
+      "title": "Debt",
+      "name": "Debt"
+    }
+  },
+  "inventory": {
+    "title": "Inventory",
+    "name": "Inventory",
+    "warehouse": {
+      "title": "Warehouse",
+      "name": "Warehouse"
+    },
+    "inventoryBook": {
+      "title": "Inventory book",
+      "name": "Inventory book"
+    },
+    "inventoryImportBook": {
+      "title": "Inventory import book",
+      "name": "Inventory import book"
+    },
+    "inventoryExportBook": {
+      "title": "Inventory export book",
+      "name": "Inventory export book"
+    },
+    "stockTaking": {
+      "title": "Stock taking",
+      "name": "Stock taking"
+    }
+  },
+  "chat": {
+    "title": "Conversation",
+    "name": "Conversation",
+    "chatInbox": {
+      "title": "Conversation",
+      "name": "Conversation"
+    },
+    "chatPages": {
+      "title": "Manage Pages",
+      "name": "Manage site"
+    },
+    "chatConfigs": {
+      "title": "Configuration",
+      "name": "Configuration"
+    },
+    "chatConfigsPages": {
+      "title": "Page management",
+      "name": "Page management"
+    },
+    "chatConfigsGeneral": {
+      "title": "General Configuration",
+      "name": "General configuration"
+    },
+    "chatConfigsLabel": {
+      "title": "Conversation Label",
+      "name": "Conversation label"
+    },
+    "chatConfigsComment": {
+      "title": "Comment",
+      "name": "Comment"
+    },
+    "chatConfigsQuickMessage": {
+      "title": "Quick Message",
+      "name": "Quick Message"
+    },
+    "chatConfigsAutoMessage": {
+      "title": "Automatic message",
+      "name": "Automatic message"
+    },
+    "chatConfigsAbsenceMessage": {
+      "title": "Out of Office Message",
+      "name": "Out of Office Message"
+    },
+    "chatConfigsFrequentlyQuestion": {
+      "title": "Frequently Asked Questions",
+      "name": "Frequently Asked Questions"
+    },
+    "chatConfigsSplitConversation": {
+      "title": "Separate dialogue",
+      "name": "Separate conversation"
+    },
+    "chatConfigsChatBotScript": {
+      "title": "According to the script",
+      "name": "According to the script"
+    },
+    "chatConfigsChatBotKeyword": {
+      "title": "By keyword",
+      "name": "By keyword"
+    },
+    "chatBot": {
+      "title": "Chatbot",
+      "name": "Chatbot"
+    }
+  },
+  "setting": {
+    "title": "Setting",
+    "name": "Setting"
+  },
+  "ingredients": {
+    "title": "Ingredients",
+    "name": "Ingredients",
+    "ingredientsList": {
+      "title": "Ingredients list",
+      "name": "Ingredients list"
+    },
+    "recipe": {
+      "title": "Recipe",
+      "name": "Recipe"
+    }
+  },
+  "commission": {
+    "title": "Commission",
+    "name": "Commission"
+  }
+}

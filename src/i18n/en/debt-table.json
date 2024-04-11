@@ -1,0 +1,11 @@
+{
+  "created_at": "Date time",
+  "start_time": "Date time",
+  "customer-name": "Customer / Partner",
+  "must-receive": "Reveived",
+  "must-spent": "Paid",
+  "date": "Debt reminder date",
+  "payment": "Payment",
+  "create_at": "Date",
+  "description": "Description"
+}

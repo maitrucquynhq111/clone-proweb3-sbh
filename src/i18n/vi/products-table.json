@@ -1,0 +1,9 @@
+{
+  "name": "Tên",
+  "uom": "Đơn vị",
+  "normal_price": "Giá bán",
+  "product": "Sản phẩm",
+  "can_pick_quantity": "Có thể bán",
+  "action": "Hành động",
+  "apply_recipe": "Áp dụng công thức"
+}

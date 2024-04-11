@@ -1,0 +1,7 @@
+import { CURRENT_LINK_PAGE_KEY, CONVERSATION_CONTENT_KEY, CONVERSATION_LIST_KEY } from './queries';
+
+export const excludesPersistedKeys: unknown[] = [
+  CONVERSATION_LIST_KEY,
+  CONVERSATION_CONTENT_KEY,
+  CURRENT_LINK_PAGE_KEY,
+];

@@ -1,0 +1,24 @@
+{
+  "recipe_name": "Recipe name",
+  "historical_cost": "Historical cost",
+  "variant": "Variant",
+  "delete_recipe": "Delete recipe?",
+  "delete_recipe_description": "Are you sure you want to delete this recipe?",
+  "multiple-cancel-content": "Are you sure you want to delete the selected recipes?",
+  "multiple-cancel-confirm": "Delete selected recipes",
+  "empty-state-1": "No formulas have been created yet.",
+  "empty-state-2": "Create now for better material management!",
+  "ingredients_shorten": "Ingredients",
+  "recipe_detail": "Recipe detail",
+  "add_product_to_create_recipe": "You don't have a product to start creating a recipe with",
+  "have_recipe": "There is a recipe",
+  "have_not_selected_product_for_recipe": "Haven't selected a product to create a recipe",
+  "success": {
+    "delete": "Delete recipe successfully",
+    "update": "Update recipe successfully"
+  },
+  "action": {
+    "create-fast-product": "Create product",
+    "add_product": "Add product"
+  }
+}

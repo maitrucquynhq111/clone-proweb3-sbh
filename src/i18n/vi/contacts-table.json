@@ -1,0 +1,39 @@
+{
+  "name": "Khách hàng",
+  "contact_groups": "Nhóm",
+  "contact_tags": "Nhãn",
+  "order": "Đơn hàng",
+  "order_shorten": "đơn",
+  "contact_shorten": "khách",
+  "latest_order": "Đơn gần nhất",
+  "phone_number": "Số điện thoại",
+  "state": "Tổng đơn đã giao",
+  "customer_point": "Điểm tích lũy",
+  "point": "Điểm",
+  "debt_amount": "Phải thu/Trả",
+  "action": "Hành động",
+  "add_to_group": "Thêm vào nhóm",
+  "create_contact_group": "Tạo nhóm khách hàng",
+  "create_order": "Tạo đơn",
+  "delete_contact": "Xoá khách hàng?",
+  "delete_contact_description": "Bạn có chắc muốn xoá khách hàng này?",
+  "delete_contact_transaction_description": "Khách hàng còn các khoản giao dịch chưa hoàn thành. Bạn có chắc muốn xoá khách hàng này?",
+  "display_setting": "Cài đặt hiển thị",
+  "display_setting_description": "Chọn ít nhất 1 và tối đa 4 hiển thị",
+  "delivered_order": "Đơn đã giao",
+  "total_revenue": "Tổng doanh thu",
+  "placeholder": {
+    "search_contact_group": "Tìm tên nhóm khách hàng"
+  },
+  "success": {
+    "delete": "Xoá khách hàng thành công"
+  },
+  "analytic": {
+    "last_create": "Khách mới",
+    "contact_back": "Khách quay lại",
+    "amount_in": "Phải thu",
+    "amount_out": "Phải trả",
+    "customer_point": "Điểm tích lũy",
+    "order": "Tổng đơn hàng"
+  }
+}

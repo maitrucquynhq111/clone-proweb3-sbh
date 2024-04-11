@@ -1,0 +1,18 @@
+{
+  "category_name": "Category Name",
+  "created_at": "Date time",
+  "day": "Day",
+  "transaction_type": "Transaction Type",
+  "object_key": "Transaction Code",
+  "amount": "Amount",
+  "total_in": "Total In",
+  "total_out": "Total Out",
+  "payment_source_name": "Source",
+  "description": "Description",
+  "status": "Status",
+  "action": "Action",
+  "received": "Received",
+  "must-received": "Must received",
+  "paid": "Paid",
+  "must-pay": "Must pay"
+}

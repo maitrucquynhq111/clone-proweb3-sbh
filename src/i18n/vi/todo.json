@@ -1,0 +1,24 @@
+{
+  "need-consider": "Cần xem xét",
+  "waiting-confirm-order": "Đơn chờ xác nhận",
+  "delivering-order": "Đơn đang giao",
+  "unpaid-order": "Đơn chưa thanh toán",
+  "sold-out-product": "Sản phẩm hết hàng",
+  "low-inventory-product": "Sản phẩm tồn kho thấp",
+  "need-remind-debt-customer": "Khách hàng cần nhắc nợ",
+  "not-have-debt-schedule-customer": "Khách chưa có lịch nhắc nợ",
+  "need-collect-debt-customer": "Cần thu nợ",
+
+  "quick-action": "Thao tác nhanh",
+  "sell": "Bán hàng",
+  "product": "Hàng hoá",
+  "finance": "Tài chính",
+  "create-order": "Tạo đơn hàng",
+  "create-order-table": "Tạo đơn tại bàn",
+  "create-product": "Tạo sản phẩm mới",
+  "create-import-stock": "Nhập kho",
+  "create-stock-taking": "Kiểm kho",
+  "create-cashbook-out": "Tạo khoản chi",
+  "create-cashbook-in": "Tạo khoản thu",
+  "create-debt": "Tạo nợ khách hàng"
+}

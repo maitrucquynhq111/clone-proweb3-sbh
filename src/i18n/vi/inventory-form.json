@@ -1,0 +1,14 @@
+{
+  "more_inventory_info": "Thêm thông tin tồn kho",
+  "historical_cost": "Giá vốn",
+  "inventory": "Tồn kho",
+  "sku_code": "Mã SKU",
+  "blocked_quantity": "Lưu kho không bán",
+  "action": {
+    "open_inventory": "Bật tồn kho"
+  },
+  "success": {
+    "open_inventory": "Bật tồn kho thành công",
+    "update_sku_inventory": "Cập nhật tồn kho thành công"
+  }
+}

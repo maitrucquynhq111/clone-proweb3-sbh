@@ -1,0 +1,21 @@
+{
+  "order_number": "Thông tin đơn hàng",
+  "grand_total": "Tổng tiền",
+  "state": "Trạng thái",
+  "payment": "Thanh toán",
+  "created_at": "Ngày tạo",
+  "refund_at": "Ngày trả",
+  "complete_at": "Ngày Hoàn thành",
+  "cancelled_at": "Ngày Hủy",
+  "action": "Hành động",
+  "paid": "Đã thanh toán",
+  "unpaid": "Chưa thanh toán",
+  "partial_payment": "Thanh toán một phần",
+  "action_button": {
+    "confirm": "Xác nhận",
+    "delivered": "Đã giao"
+  },
+  "multiple-cancel-content": "Sau khi huỷ đơn hàng sẽ ảnh hưởng đến số liệu thu chi. Bạn có chắc muốn huỷ đơn hàng này?",
+  "multiple-cancel-confirm": "Hủy đơn hàng đã chọn",
+  "multiple-cancel": "Hủy đơn hàng"
+}

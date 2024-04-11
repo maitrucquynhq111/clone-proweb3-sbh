@@ -1,0 +1,33 @@
+{
+  "addon_name": "Option name",
+  "addon_price": "Selling price",
+  "addon_historical_cost": "Cost",
+  "addon_is_active": "Status",
+  "addon_group_name": "The name of the bundled group",
+  "addon_option": "Bundled product options",
+  "product_name": "Product name",
+  "product_link": "Link to main product",
+  "is_required": "Optional is required",
+  "is_multiple_items": "Add multiple for 1 option",
+  "is_multiple_options": "Can select multiple options at once",
+  "in_stock": "Still",
+  "out_of_stock": "Out",
+  "link_to_product": "Product linking",
+  "placeholder": {
+    "addon_group_name": "Example: Pearl"
+  },
+  "action": {
+    "add_addon_option": "Add options",
+    "add_product": "Add product"
+  },
+  "success": {
+    "create": "Successfully created a addon group",
+    "update": "Successfully updated the addon group",
+    "delete": "Successfully deleted the addon group"
+  },
+  "error": {
+    "addon_name": "Option name cannot be empty",
+    "at_least_one_addon": "You need to add at least one option to the group",
+    "max_addon_group_name": "Cannot exceed 20 characters"
+  }
+}

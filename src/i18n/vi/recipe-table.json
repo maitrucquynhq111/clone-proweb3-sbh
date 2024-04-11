@@ -1,0 +1,24 @@
+{
+  "recipe_name": "Tên công thức",
+  "historical_cost": "Giá vốn",
+  "variant": "Phân loại",
+  "delete_recipe": "Xoá công thức?",
+  "delete_recipe_description": "Bạn có chắc muốn xoá công thức này?",
+  "multiple-cancel-content": "Bạn có chắc muốn xoá những công thức này không?",
+  "multiple-cancel-confirm": "Xoá những công thức đã chọn",
+  "empty-state-1": "Chưa có công thức nào được tạo.",
+  "empty-state-2": "Tạo ngay để quản lý tốt nguyên vật liệu hơn!",
+  "ingredients_shorten": "Nguyên v.liệu",
+  "recipe_detail": "Chi tiết công thức",
+  "add_product_to_create_recipe": "Bạn chưa có sản phẩm đã bắt đầu tạo công thức",
+  "have_recipe": "Đã có công thức",
+  "have_not_selected_product_for_recipe": "Chưa chọn sản phẩm để tạo công thức",
+  "success": {
+    "delete": "Xoá công thức thành công",
+    "update": "Cập nhật công thức thành công"
+  },
+  "action": {
+    "create-fast-product": "Tạo nhanh",
+    "add_product": "Thêm sản phẩm"
+  }
+}

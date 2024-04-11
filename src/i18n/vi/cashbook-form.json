@@ -1,0 +1,44 @@
+{
+  "create_income": "Tạo khoản thu",
+  "create_outcome": "Tạo khoản chi",
+  "detail_income": "Chi tiêt khoản thu",
+  "detail_outcome": "Chi tiêt khoản chi",
+  "payment_source": "Nguồn tiền",
+  "payment_source_name": "Tên nguồn tiền",
+  "amount": "Số tiền",
+  "debit": "Ghi nợ",
+  "balance": "Số dư ban đầu",
+  "category": "Phân loại",
+  "description": "Ghi chú",
+  "cashbook_category_name": "Tên phân loại",
+  "transaction_images": "Ảnh giao dịch",
+  "contact": "Khách ghi nợ",
+  "reminder_day": "Thời gian nhắc nợ",
+  "received": "Tôi đã nhận",
+  "gave": "Tôi đã đưa",
+  "order_repayment": "Trả nợ đơn",
+  "po_repayment": "Trả nợ đơn nhập",
+  "payment": "Thanh toán",
+  "category_order": "Bán hàng",
+  "category_po": "Nhập hàng",
+  "debt_repayment": "Thanh toán nợ",
+  "placeholder": {
+    "payment_source": "Chọn nguồn tiền",
+    "payment_source_name": "Ví dụ: Chuyển khoản",
+    "transaction_time": "Thời gian giao dịch",
+    "category": "Chọn phân loại",
+    "description": "Nhập ghi chú cho giao dịch này",
+    "cashbook_category_name": "Ví dụ: Ăn uống, mua sắm,...",
+    "contact": "Chọn khách hàng"
+  },
+  "action": {
+    "create_payment": "Thêm nguồn tiền",
+    "create_category": "Thêm phân loại"
+  },
+  "error": {
+    "min_amount": "Số tiền phải lớn hơn 0",
+    "type_number": "Chỉ được nhập số",
+    "max_length": "Chỉ được nhập tối đa 10 số",
+    "max_image_length": "Tối đa 4 hình ảnh"
+  }
+}

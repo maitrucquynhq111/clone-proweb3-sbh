@@ -1,0 +1,32 @@
+{
+  "cost_per_product": "Giá vốn/sản phẩm",
+  "name": "Tên nguyên vật liệu",
+  "quantity": "Số lượng",
+  "uom": "Đơn vị",
+  "name_shorten": "Tên",
+  "historical_cost": "Giá vốn",
+  "inventory": "Tồn kho",
+  "warning_inventory": "Cảnh báo tồn kho",
+  "uom_standard": "Đơn vị chuẩn",
+  "delete_ingredients": "Xoá nguyên vật liệu?",
+  "delete_ingredients_description": "Bạn có chắc rằng muốn thực hiện?",
+  "action": {
+    "create": "Tạo nguyên vật liệu",
+    "create_uom": "Tạo đơn vị"
+  },
+  "placeholder": {
+    "search": "Tìm nguyên vật liệu",
+    "name": "Ví dụ: Đường",
+    "uom": "Ví dụ: 10gram"
+  },
+  "success": {
+    "create": "Tạo nguyên vật liệu mới thành công",
+    "update": "Cập nhật nguyên vật liệu thành công",
+    "delete": "Xoá nguyên vật liệu thành công",
+    "create_uom": "Tạo đơn vị thành công"
+  },
+  "error": {
+    "max_warning_quantity": "Không được lớn hơn số lượng tồn kho",
+    "max_name": "Tối đa 30 ký tự"
+  }
+}

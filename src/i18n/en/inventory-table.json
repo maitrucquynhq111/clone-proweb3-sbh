@@ -1,0 +1,19 @@
+{
+  "po_code": "Po code",
+  "sku_ingredient": "Products / Materials",
+  "category_name": "Category",
+  "quantity": "Quantity",
+  "value": "Value",
+  "action": "Action",
+  "empty_state": "No import or export value yet",
+  "type": {
+    "product": "Product",
+    "ingredient": "Ingredient"
+  },
+  "analytics": {
+    "first_period": "First period",
+    "inbound_in_period": "Inbound in period",
+    "outbound_in_period": "Outbound in period",
+    "last_period": "Last period"
+  }
+}

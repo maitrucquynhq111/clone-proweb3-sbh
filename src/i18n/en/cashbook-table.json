@@ -1,0 +1,12 @@
+{
+  "category_name": "Category Name",
+  "day": "Day",
+  "transaction_type": "Transaction Type",
+  "object_key": "Transaction Code",
+  "amount": "Amount",
+  "total_in": "Total In",
+  "total_out": "Total Out",
+  "payment_source_name": "Source",
+  "description": "Description",
+  "action": "Action"
+}

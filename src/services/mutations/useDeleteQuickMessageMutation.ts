@@ -1,0 +1,20 @@
+import { useMutation } from '@tanstack/react-query';
+import { ChatService } from '~app/services/api';
+
+export const useDeleteQuickMessageMutation = () => {
+  const { isLoading, error, data, isError, isSuccess, mutate, mutateAsync } = useMutation<ExpectedAny, Error>({
+    mutationFn: (id: ExpectedAny) => {
+      return ChatService.deleteQuickMessage(id);
+    },
+  });
+
+  return {
+    isLoading,
+    isSuccess,
+    error,
+    data,
+    isError,
+    mutate,
+    mutateAsync,
+  };
+};

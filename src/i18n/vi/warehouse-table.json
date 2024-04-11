@@ -1,0 +1,15 @@
+{
+  "sku": "SKU",
+  "product": "Sản phẩm",
+  "channel": "Kênh bán",
+  "historical_cost": "Giá vốn",
+  "inventory": "Tồn kho",
+  "inventory_value": "Giá trị tồn",
+  "quantity": "Số lượng",
+  "out_of_stock": "Thiếu hàng",
+  "not_open_inventory": "Chưa bật tồn kho",
+  "error": {
+    "min_quantity": "Tồn kho phải lớn hơn 0"
+  },
+  "empty_state": "Tạo ngay sản phẩm đầu tiên để bắt đầu quản lý kho chuyên nghiệp bạn nhé!"
+}

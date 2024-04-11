@@ -1,0 +1,15 @@
+{
+  "presentee": "Presentee",
+  "presenter": "Presenter",
+  "presentee_phone_number": "Referee phone number",
+  "upgrade_package": "Upgrade package",
+  "payment_amount": "Payment amount",
+  "total_upgrade_package": "Total upgraded package",
+  "upgrade_date": "Upgrade date",
+  "commission_percent": "Percentage of commission",
+  "commission_amount": "Real commission received",
+  "non_upgrade": "Non upgrade",
+  "package_pro_duration_year": "Pro {{count}} year(s)",
+  "package_pro_duration_month": "Pro {{count}} month(s)",
+  "package_plus_duration_year": "Plus {{count}} year(s)"
+}

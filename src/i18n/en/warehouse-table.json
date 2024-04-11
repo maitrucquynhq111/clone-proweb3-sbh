@@ -1,0 +1,15 @@
+{
+  "sku": "SKU",
+  "product": "Product",
+  "channel": "Channel",
+  "historical_cost": "Historical cost",
+  "inventory": "Inventory",
+  "inventory_value": "Inventory value",
+  "quantity": "Quantity",
+  "out_of_stock": "Out of stock",
+  "not_open_inventory": "Inventory not enabled",
+  "error": {
+    "min_quantity": "Inventory must be greater than 0"
+  },
+  "empty_state": "Create your first product now to start professional inventory management!"
+}

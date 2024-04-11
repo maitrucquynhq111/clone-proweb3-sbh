@@ -1,0 +1,18 @@
+{
+  "name": "Group name",
+  "number_of_contact": "Total",
+  "total_receivable": "Total Receivable",
+  "total_paid": "Total Paid",
+  "contact_group": "Contact group",
+  "export_contact": {
+    "title": "Select file to download",
+    "export_all": "All customer information",
+    "export_by_group": "By selected customer group"
+  },
+  "error": {
+    "not_select_group": "Please select the contact group to download"
+  },
+  "success": {
+    "export": "Download the list of contacts successful"
+  }
+}

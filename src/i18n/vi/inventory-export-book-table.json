@@ -1,0 +1,13 @@
+{
+  "order_info": "Thông tin đơn hàng",
+  "created_at": "Ngày tạo",
+  "staff": "Nhân viên",
+  "total": "Tổng tiền",
+  "status": "Trạng thái",
+  "created_by": "Tạo bởi",
+  "status_filter": {
+    "completed": "Đã hoàn thành",
+    "processing": "Đang xử lý",
+    "cancelled": "Đã hủy"
+  }
+}

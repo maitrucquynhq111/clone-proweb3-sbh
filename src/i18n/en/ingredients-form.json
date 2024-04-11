@@ -1,0 +1,32 @@
+{
+  "cost_per_product": "historical cost/products",
+  "name": "Ingredients name",
+  "quantity": "Quantity",
+  "uom": "Unit",
+  "name_shorten": "Name",
+  "historical_cost": "Historical cost",
+  "inventory": "Inventory",
+  "warning_inventory": "Warning inventory",
+  "uom_standard": "Standard unit",
+  "delete_ingredients": "Delete ingredients?",
+  "delete_ingredients_description": "Are you sure you want to do it?",
+  "action": {
+    "create": "Create ingredients",
+    "create_uom": "Create unit"
+  },
+  "placeholder": {
+    "search": "Search ingredients",
+    "name": "Ex: Sugar",
+    "uom": "Ex: 10gram"
+  },
+  "success": {
+    "create": "Successfully created new ingredients",
+    "update": "Ingredients update successful",
+    "delete": "Ingredients removal success",
+    "create_uom": "Successfully created unit"
+  },
+  "error": {
+    "max_warning_quantity": "No more than stock quantity",
+    "max_name": "Maximum 30 characters"
+  }
+}

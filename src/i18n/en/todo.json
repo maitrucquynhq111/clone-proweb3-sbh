@@ -1,0 +1,23 @@
+{
+  "need-consider": "Need to consider",
+  "waiting-confirm-order": "Waiting for confirmation orders",
+  "delivering-order": "Delivering orders",
+  "unpaid-order": "Unpaid Orders",
+  "sold-out-product": "Sold-out products",
+  "low-inventory-product": "Low inventory products",
+  "need-remind-debt-customer": "Need to remind debt",
+  "not-have-debt-schedule-customer": "Do not have debt remind schedule yet",
+  "need-collect-debt-customer": "Need to collect debt",
+  "quick-action": "Quick action",
+  "sell": "Sell",
+  "product": "Products",
+  "finance": "Finance",
+  "create-order": "Create order",
+  "create-order-table": "Create order at table",
+  "create-product": "Create product",
+  "create-import-stock": "Create import goods",
+  "create-stock-taking": "Create stocktaking",
+  "create-cashbook-out": "Create income",
+  "create-cashbook-in": "Create outcome",
+  "create-debt": "Create debt"
+}

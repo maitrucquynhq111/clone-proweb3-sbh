@@ -1,0 +1,33 @@
+{
+  "addon_name": "Tên tùy chọn",
+  "addon_price": "Giá bán",
+  "addon_historical_cost": "Giá vốn",
+  "addon_is_active": "Tình trạng",
+  "addon_group_name": "Tên nhóm bán kèm",
+  "addon_option": "Tuỳ chọn sản phẩm bán kèm",
+  "product_name": "Tên sản phẩm",
+  "product_link": "Liên kết với sản phẩm chính",
+  "is_required": "Bắt buộc phải chọn tùy chọn",
+  "is_multiple_items": "Thêm số lượng nhiều cho 1 tùy chọn",
+  "is_multiple_options": "Có thể chọn nhiều tùy chọn cùng lúc",
+  "in_stock": "Còn",
+  "out_of_stock": "Hết",
+  "link_to_product": "Liên kết sản phẩm",
+  "placeholder": {
+    "addon_group_name": "Ví dụ: Trân châu"
+  },
+  "action": {
+    "add_addon_option": "Thêm tùy chọn",
+    "add_product": "Thêm sản phẩm"
+  },
+  "success": {
+    "create": "Tạo nhóm bán kèm thành công",
+    "update": "Cập nhật nhóm bán kèm thành công",
+    "delete": "Xóa nhóm bán kèm thành công"
+  },
+  "error": {
+    "addon_name": "Tên tùy chọn không được để trống",
+    "at_least_one_addon": "Bạn cần thêm vào nhóm ít nhất một tùy chọn",
+    "max_addon_group_name": "Không được vượt quá 20 ký tự"
+  }
+}

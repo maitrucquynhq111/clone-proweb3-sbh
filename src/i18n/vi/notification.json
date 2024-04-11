@@ -1,0 +1,11 @@
+{
+  "download-success": "Tải về thành công",
+  "delete-success": "Xóa thành công",
+  "upload-success": "Tải lên thành công",
+  "update-success": "Cập nhật thành công",
+  "wrong-file-upload": "File dữ liệu không đúng. Vui lòng kiểm tra lại!",
+  "update-reminder-success": "Cập nhật ngày nhắc nợ thành công!",
+  "sync-order-success": "Đồng bộ đơn hàng thành công!",
+  "delete-order-success": "Xóa đơn hàng thành công!",
+  "cancel-order-success": "Hủy đơn hàng thành công!"
+}

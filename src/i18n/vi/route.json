@@ -1,0 +1,212 @@
+{
+  "root": {
+    "title": "Trang chủ",
+    "name": "Trang chủ"
+  },
+  "todo": {
+    "title": "Việc cần làm",
+    "name": "Việc cần làm"
+  },
+  "sales": "Bán hàng",
+  "goods": "Hàng hóa",
+  "channel": "Kênh bán hàng",
+  "finance": "Tài chính",
+  "customer": "Khách hàng",
+  "staff": "Nhân viên",
+  "report": "Báo cáo",
+  "pos": "POS bán hàng",
+  "orders": {
+    "title": "Đơn hàng",
+    "name": "Đơn hàng"
+  },
+  "products": {
+    "productsList": {
+      "title": "Sản phẩm",
+      "name": "Sản phẩm"
+    },
+    "productsAddon": {
+      "title": "Sản phẩm bán kèm",
+      "name": "Sản phẩm bán kèm"
+    },
+    "printBarCode": {
+      "title": "In tem mã vạch",
+      "name": "In tem mã vạch"
+    }
+  },
+  "website": {
+    "title": "Website",
+    "name": "Website"
+  },
+  "ecom": {
+    "title": "Tất cả gian hàng",
+    "name": "Sàn TMĐT"
+  },
+  "social": {
+    "title": "Kênh Social",
+    "name": "Kênh Social"
+  },
+  "staffManagement": {
+    "title": "Quản lý nhân viên",
+    "name": "Quản lý nhân viên"
+  },
+  "role": {
+    "title": "Vai trò",
+    "name": "Vai trò"
+  },
+  "reportPNL": {
+    "title": "Báo cáo lãi lỗ",
+    "name": "Báo cáo lãi lỗ"
+  },
+  "reportRevenue": {
+    "title": "Báo cáo doanh thu",
+    "name": "Báo cáo doanh thu"
+  },
+  "reportTransaction": {
+    "title": "Báo cáo thu chi",
+    "name": "Báo cáo thu chi"
+  },
+  "reportInventory": {
+    "title": "Báo cáo kho hàng",
+    "name": "Báo cáo kho hàng"
+  },
+  "orderDetails": {
+    "title": "Chi tiết đơn hàng",
+    "name": "Chi tiết đơn hàng"
+  },
+  "contacts": {
+    "title": "Danh bạ",
+    "name": "Danh bạ",
+    "contactsDetails": {
+      "title": "Chi tiết khách hàng",
+      "name": "Chi tiết khách hàng"
+    },
+    "contactsList": {
+      "title": "Danh sách khách hàng",
+      "name": "Danh bạ"
+    },
+    "contactsGroups": {
+      "title": "Nhóm khách hàng",
+      "name": "Nhóm khách hàng"
+    }
+  },
+  "cashbook": {
+    "title": "Thu chi",
+    "name": "Thu chi",
+    "transaction": {
+      "title": "Lịch sử giao dịch",
+      "name": "Giao dịch"
+    },
+    "cashbookList": {
+      "title": "Thu chi",
+      "name": "Thu chi"
+    },
+    "cashbookDebt": {
+      "title": "Sổ nợ",
+      "name": "Sổ nợ"
+    }
+  },
+  "inventory": {
+    "title": "Quản lý kho",
+    "name": "Quản lý kho",
+    "warehouse": {
+      "title": "Kho hàng",
+      "name": "Kho hàng"
+    },
+    "inventoryBook": {
+      "title": "Sổ kho",
+      "name": "Sổ kho"
+    },
+    "inventoryImportBook": {
+      "title": "Sổ nhập hàng",
+      "name": "Sổ nhập hàng"
+    },
+    "inventoryExportBook": {
+      "title": "Sổ xuất hàng",
+      "name": "Sổ xuất hàng"
+    },
+    "stockTaking": {
+      "title": "Kiểm kho",
+      "name": "Kiểm kho"
+    }
+  },
+  "chat": {
+    "title": "Hội thoại",
+    "name": "Hội thoại",
+    "chatInbox": {
+      "title": "Hội thoại",
+      "name": "Hội thoại"
+    },
+    "chatConfigs": {
+      "title": "Cấu hình",
+      "name": "Cấu hình"
+    },
+    "chatConfigsPages": {
+      "title": "Quản lý trang",
+      "name": "Quản lý trang"
+    },
+    "chatConfigsGeneral": {
+      "title": "Cấu hình chung",
+      "name": "Cấu hình chung"
+    },
+    "chatConfigsLabel": {
+      "title": "Nhãn hội thoại",
+      "name": "Nhãn hội thoại"
+    },
+    "chatConfigsComment": {
+      "title": "Bình luận",
+      "name": "Bình luận"
+    },
+    "chatConfigsQuickMessage": {
+      "title": "Tin nhắn nhanh",
+      "name": "Tin nhắn nhanh"
+    },
+    "chatConfigsAutoMessage": {
+      "title": "Tin nhắn tự động",
+      "name": "Tin nhắn tự động"
+    },
+    "chatConfigsAbsenceMessage": {
+      "title": "Tin nhắn vắng mặt",
+      "name": "Tin nhắn vắng mặt"
+    },
+    "chatConfigsFrequentlyQuestion": {
+      "title": "Câu hỏi thường gặp",
+      "name": "Câu hỏi thường gặp"
+    },
+    "chatConfigsSplitConversation": {
+      "title": "Phân chia hội thoại",
+      "name": "Phân chia hội thoại"
+    },
+    "chatConfigsChatBotScript": {
+      "title": "Theo kịch bản",
+      "name": "Theo kịch bản"
+    },
+    "chatConfigsChatBotKeyword": {
+      "title": "Theo từ khoá",
+      "name": "Theo từ khoá"
+    },
+    "chatBot": {
+      "title": "Chatbot",
+      "name": "Chatbot"
+    }
+  },
+  "setting": {
+    "title": "Cài đặt",
+    "name": "Cài đặt"
+  },
+  "ingredients": {
+    "title": "Nguyên vật liệu",
+    "name": "Nguyên vật liệu",
+    "ingredientsList": {
+      "title": "Nguyên vật liệu",
+      "name": "Nguyên vật liệu"
+    },
+    "recipe": {
+      "title": "Công thức",
+      "name": "Công thức"
+    }
+  },
+  "commission": {
+    "title": "Hoa hồng",
+    "name": "Hoa hồng"
+  }
+}

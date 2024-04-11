@@ -1,0 +1,10 @@
+{
+  "name": "Ingredients name",
+  "uom": "Unit",
+  "historical_cost": "Historical cost",
+  "inventory": "Inventory",
+  "inventory_value": "Inventory value",
+  "empty_state_1": "There are no ingredients in the shop yet.",
+  "empty_state_2": "Create now for easier management and comparison!",
+  "tooltip_warning": "Low inventory"
+}

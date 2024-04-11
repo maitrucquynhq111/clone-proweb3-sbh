@@ -1,0 +1,12 @@
+{
+  "po_code": "Mã phiếu",
+  "created_at": "Ngày tạo",
+  "staff_info": "Nhân viên",
+  "status": "Trạng thái",
+  "difference": "Chênh lệch",
+  "processing": "Đang kiểm kho",
+  "completed": "Đã cân bằng kho",
+  "cancelled": "Đã hủy",
+  "empty_state": "Bạn chưa có phiếu kiểm kho nào",
+  "empty_state_product": "Tạo ngay sản phẩm đầu tiên để bắt đầu quản lý kho chuyên nghiệp bạn nhé!"
+}

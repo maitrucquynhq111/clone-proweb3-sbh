@@ -1,0 +1,30 @@
+{
+  "search": "Search by table name",
+  "zone": "Area",
+  "empty": "Empty",
+  "available_table": "Empty table",
+  "using_table": "Table in use",
+  "table": "Table",
+  "available": "Available",
+  "no_table": "No table yet",
+  "empty_state_1": "You don't have any table!",
+  "empty_state_2": "Create tables and areas to start business management",
+  "create_table": "Create table",
+  "open_fnb": "Turn on food service settings",
+  "description_open_fnb": "To use Table Management / Eat at the table function, you need to turn on selling in store mode",
+  "error": {
+    "using_table": "Tables currently serving cannot be selected"
+  },
+  "kitchen_ticket": {
+    "kitchen_slip": "Kitchen slip",
+    "date": "Date",
+    "time": "Time",
+    "note": "Note",
+    "pay_at_table": "Pay at table",
+    "buyer_pick_up": "Take away",
+    "seller_delivery": "Delivery",
+    "name": "Name",
+    "quantity": "Quantity",
+    "unit": "Unit"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Name",
+  "uom": "Uom",
+  "normal_price": "Price",
+  "product": "Product",
+  "can_pick_quantity": "Can pick",
+  "action": "Action",
+  "apply_recipe": "Apply recipe"
+}

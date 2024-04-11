@@ -1,0 +1,16 @@
+export { default as Header } from './Header';
+export { default as ContactTabs } from './ContactTabs';
+export { default as ContactInfo } from './ContactInfo';
+export { default as TopBoughtProducts } from './TopBoughtProducts';
+export { default as LastOrder } from './LastOrder';
+export { default as ContactLabel } from './ContactLabel';
+export { default as ContactGroup } from './ContactGroup';
+export { default as CustomerPoint } from './CustomerPoint';
+export { default as ContactNote } from './ContactNote';
+export { default as ActivitiesHistory } from './ActivitiesHistory';
+export { default as ContactUpdateInline } from './ContactUpdateInline';
+export { default as ActionsButton } from './ActionsButton';
+export { default as ContactGroupSelect } from './ContactGroupSelect';
+export { default as ContactLabelSelect } from './ContactLabelSelect';
+export { default as ContactLabelCreate } from './ContactLabel/create';
+export { default as ContactAnalytics } from './ContactAnalytics';

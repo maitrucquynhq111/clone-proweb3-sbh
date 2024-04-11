@@ -1,0 +1,64 @@
+{
+  "stocktaking_list": "Inventory list",
+  "search_to_stock_take": "Find and select products/ingredients to start stocking",
+  "transation_image": "Transaction image",
+  "product": "Product",
+  "ingredient": "Ingredients",
+  "total_before_change_quantity": "System inventory count",
+  "total_after_change_quantity": "Actual inventory quantity",
+  "stock": "Storage",
+  "system_stock": "System stock",
+  "real_stock": "Real stock",
+  "total_quantity_short": "Skewed SL",
+  "total_quantity": "Amount of difference",
+  "transaction_images": "Transaction image",
+  "note": "Note",
+  "created_by": "Created by",
+  "stocktake_receipt": "Inventory note",
+  "receipt_code": "Voucher code",
+  "status": "Status",
+  "create_staff": "Created Employee",
+  "created_at": "Date created",
+  "balanced_staff": "Balanced staff",
+  "balanced_at": "Balanced day",
+  "real_stock_receipt": "Actual existence",
+  "system_stock_receipt": "System existence",
+  "total_quantity_receipt": "Difference",
+  "uom": "Unit",
+  "placeholder": {
+    "note": "Add a note to the input form",
+    "search": "Find product name, SKU code, ingredients"
+  },
+  "action": {
+    "open_inventory": "Enable inventory",
+    "save_receipt": "Save the vote",
+    "complete": "Complete",
+    "delete_receipt": "Delete vote",
+    "download_receipt": "Download receipt",
+    "print_receipt": "Print receipt"
+  },
+  "empty": {
+    "product": "No matches were found",
+    "product_ingredient": "Find and select products/ingredients to start inventory"
+  },
+  "success": {
+    "save_receipt": "Successfully saved inventory slip",
+    "complete": "Balanced inventory successfully",
+    "delete_receipt": "Successfully deleted the inventory check"
+  },
+  "error": {
+    "max_image_length": "Up to 3 images",
+    "empty_sku_ingrident": "products/ingredients that have not yet entered actual inventory",
+    "at_least_one_item": "Requires at least 1 item/material"
+  },
+  "modal": {
+    "confirm_stock_balance": "Confirm stock balance?",
+    "stock_balance_desc": "There are {{sku_count}} products, {{ingredient_count}} ingredients will be stocked due to the difference after Inventory Control",
+    "stock_balance_desc_sku": "There are {{sku_count}} products that will be stock-balanced due to the difference after Inventory Control",
+    "stock_balance_desc_ingredient": "There are {{ingredient_count}} ingredients that will be stocked due to the difference after Inventory Control",
+    "exit_without_save_title": "Cancel update inventory slip?",
+    "exit_without_save_desc": "The updated inventory information will not be saved. Are you sure you want to do it?",
+    "cancel_receipt_title": "Cancel the inventory check?",
+    "cancel_receipt_desc": "All inventory information will be cancelled. Are you sure you want to do this?"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "modal": {
+    "title": "Tổng quan lợi ích khi liên kết sàn Thương Mại Điện Tử",
+    "des_1": "Đồng bộ sản phẩm 1 cách thông minh và nhanh chóng",
+    "des_2": "Theo dõi việc bán hàng đa kênh trên một ứng dụng",
+    "des_3": "Quản lý tồn kho đa kênh theo thời gian thực",
+    "des_4": "Báo cáo tổng quan về tình hình kinh doanh cửa từng shop trên các sàn Thương Mại Điện Tử",
+    "des_5": "Xem đánh giá khách hàng trên các sàn"
+  },
+  "action": {
+    "connect_shopee": "Liên kết sàn Shopee",
+    "connect_lazada": "Liên kết sàn Lazada",
+    "connect_tiktok": "Liên kết TikTok Shop",
+    "benefit_details": "Chi tiết lợi ích",
+    "add_shop": "Thêm gian hàng",
+    "sync_product": "Đồng bộ sản phẩm",
+    "sync_order": "Đồng bộ đơn hàng",
+    "sync_setting": "Thiết lập đồng bộ",
+    "connect_store": "Kết nối gian hàng"
+  },
+  "table": {
+    "name": "Tên gian hàng",
+    "sync_product": "Đồng bộ sản phẩm",
+    "sync_inventory": "Đồng bộ tồn kho",
+    "sync_order": "Đồng bộ đơn hàng",
+    "status": "Trạng thái",
+    "action": "Hành động"
+  },
+  "status": {
+    "not_connected": "Chưa kết nối",
+    "connected": "Đã kết nối",
+    "not_set_up": "Chưa thiết lập"
+  },
+  "message_description": "Kết nối cửa hàng với sàn TMĐT ngay để quản lý tất cả các đơn hàng, sản phẩm, kho trên Sổ Bán Hàng",
+  "empty_linked_store": "Chưa có gian hàng nào được liên kết",
+  "empty_ecommerce": "Bạn chưa có gian hàng thương mại điện tử nào được liên kết"
+}

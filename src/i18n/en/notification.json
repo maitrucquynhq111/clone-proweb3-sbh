@@ -1,0 +1,12 @@
+{
+  "download-success": "Download successful",
+  "delete-success": "Delete successful",
+  "upload-success": "Upload successful",
+  "update-success": "Update successful",
+  "wrong-file-upload": "Wrong file upload.Please update again!",
+  "update-reminder-success": "Update reminder success!",
+  "sync-order-success": "Sync order success!",
+  "cancel-order-success": "Cancel orders success!",
+  "delete-order-success": "Delete orders success!",
+  "multiple-cancel": "Cancel orders"
+}

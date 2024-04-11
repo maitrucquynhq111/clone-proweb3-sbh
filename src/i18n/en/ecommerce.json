@@ -1,0 +1,37 @@
+{
+  "modal": {
+    "title": "Overview of benefits when linking E-commerce floor",
+    "des_1": "Synchronize products intelligently and quickly",
+    "des_2": "Track omnichannel sales on one app",
+    "des_3": "Real-time multi-channel inventory management",
+    "des_4": "An overview report on the business situation of each shop on E-commerce platforms",
+    "des_5": "See customer reviews on exchanges"
+  },
+  "action": {
+    "connect_shopee": "Connect Shopee",
+    "connect_lazada": "Connect Lazada",
+    "connect_tiktok": "Connect TikTok Shop",
+    "benefit_details": "Benefit details",
+    "add_shop": "Add shop",
+    "sync_product": "Sync product",
+    "sync_order": "Sync order",
+    "sync_setting": "Set sync",
+    "connect_store": "Connect store"
+  },
+  "table": {
+    "name": "Store name",
+    "sync_product": "Synchronize product",
+    "sync_inventory": "Synchronize inventory",
+    "sync_order": "Synchronize order",
+    "status": "Status",
+    "action": "Action"
+  },
+  "status": {
+    "not_connected": "Not connected",
+    "connected": "Connected",
+    "not_set_up": "Not set up"
+  },
+  "message_description": "Connect the store to the e-commerce floor right away to manage all orders, products, and inventory on the Sổ Bán Hàng",
+  "empty_linked_store": "There are no linked stores yet",
+  "empty_ecommerce": "You don't have any e-commerce store yet"
+}

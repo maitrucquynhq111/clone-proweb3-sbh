@@ -1,0 +1,35 @@
+{
+  "contact_group_name": "Contact group name",
+  "select_contact": "Select contact",
+  "empty_state_contact": "There are no customers in the list yet",
+  "delete_contact_group": "Delete customer group?",
+  "delete_contact_group_description": "Are you sure you want to do it?",
+  "contact_list_tab": "List of customers",
+  "info_tab": "Info",
+  "condition": "condition",
+  "potential_customer": "Potential customer",
+  "new_customer": "New customer",
+  "dob_this_month_customer": "In month birthday customer",
+  "suggest_contact_group_desc": " Hint for you: These customer groups are already made for you. Choose a customer group to set up or customize it to fit your needs",
+  "placeholder": {
+    "name": "Ex: Supplier",
+    "search_contact": "Find customer name/phone number"
+  },
+  "action": {
+    "create_contact": "Create contact",
+    "create_group": "Create group",
+    "delete_selected": "Delete selected",
+    "confirm": "Confirm",
+    "add_contact": "Add contact",
+    "refresh": "Reload",
+    "donwload_contact": "Download contact"
+  },
+  "success": {
+    "create": "Create a successful customer group",
+    "update": "Successful customer group update",
+    "delete": "Delete customer group successfully"
+  },
+  "error": {
+    "max_name": "Maximum 30 characters"
+  }
+}

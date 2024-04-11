@@ -1,0 +1,30 @@
+{
+  "search": "Tìm kiếm tên bàn",
+  "zone": "Khu vực",
+  "empty": "Còn trống",
+  "available_table": "Bàn trống",
+  "using_table": "Đang sử dụng",
+  "table": "Bàn",
+  "available": "Sẵn sàng",
+  "no_table": "Chưa có bàn",
+  "empty_state_1": "Bạn chưa có bàn nào!",
+  "empty_state_2": "Tạo bàn và khu vực để bát đầu quản lý kinh doanh",
+  "create_table": "Tạo bàn",
+  "open_fnb": "Bật cài đặt dịch vụ ăn uống",
+  "description_open_fnb": "Để sử dụng chức năng Quản lý bàn / Ăn tại bàn, bạn cần bật chế độ bán tại cửa hàng",
+  "error": {
+    "using_table": "Bàn đang phục vụ không thể chọn"
+  },
+  "kitchen_ticket": {
+    "kitchen_slip": "Phiếu chế biến",
+    "date": "Ngày",
+    "time": "Giờ",
+    "note": "Ghi chú",
+    "pay_at_table": "Ăn tại bàn",
+    "buyer_pick_up": "Mang về",
+    "seller_delivery": "Giao hàng",
+    "name": "Tên món",
+    "quantity": "SL",
+    "unit": "Đơn vị"
+  }
+}

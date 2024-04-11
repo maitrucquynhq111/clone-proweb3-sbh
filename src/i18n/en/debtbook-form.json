@@ -1,0 +1,22 @@
+{
+  "contact": "Contact",
+  "amount": "Amount",
+  "transaction_time": "Transaction time",
+  "description": "Note",
+  "transaction_images": "Transaction image",
+  "cashbook_record": "Record to revenue and expenditure transactions",
+  "payment_source": "Source of money",
+  "payment": "Payment",
+  "order_payment": "Pay for the order",
+  "po_payment": "Payment for purchase orders",
+  "placeholder": {
+    "description": "Enter a note for this transaction",
+    "cashbook_category_name": "Example: Eating, shopping,...",
+    "contact": "Select contact"
+  },
+  "error": {
+    "min_amount": "Amount must be greater than 0",
+    "max_amount": "Payment amount must be less than or equal to debit amount",
+    "max_image_length": "Up to 4 images"
+  }
+}

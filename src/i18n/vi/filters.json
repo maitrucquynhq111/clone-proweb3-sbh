@@ -1,0 +1,99 @@
+{
+  "orders-table": {
+    "search": "Tìm mã đơn / tên / SĐT",
+    "search-offline": "Tìm tên / số điện thoại",
+    "daterange": "Từ ngày - Đến ngày",
+    "type": "Kênh bán",
+    "payment_source_type": "Nguồn tiền nhận",
+    "creator_id": "Nhân viên tạo đơn",
+    "payment_status": "Trạng thái thanh toán",
+    "pos": "Cửa hàng",
+    "website": "Website"
+  },
+  "products-table": {
+    "search": "Tìm kiếm mã SKU/ Tên SP",
+    "category": "Danh mục"
+  },
+  "products-addon-table": {
+    "search": "Tìm tên nhóm bán kèm"
+  },
+  "contacts-table": {
+    "search": "Tìm khách hàng",
+    "tag": "Nhãn"
+  },
+  "contacts-groups-table": {
+    "search": "Tìm kiếm nhóm khách hàng"
+  },
+  "cashbook-table": {
+    "search": "Tìm kiếm giao dịch",
+    "daterange": "Từ ngày - Đến ngày"
+  },
+  "debt-table": {
+    "search": "Tìm khách hàng",
+    "options": "Hiển thị",
+    "sort": "Xem theo",
+    "sort-values": {
+      "sort_transaction_new": "Giao dịch gần nhất",
+      "sort_transaction_old": "Giao dịch cũ nhất",
+      "amount": "Số tiền giảm dần",
+      "az": "Thứ tự từ A-Z"
+    },
+    "options-values": {
+      "in": "Tôi phải thu",
+      "out": "Tôi phải trả",
+      "debt_reminder": "Đã đặt lịch nhắc nợ",
+      "no_debt_reminder": "Chưa đặt lịch nhắc nợ"
+    }
+  },
+  "inventory-table": {
+    "search": "Tìm tên sản phẩm, nguyên vật liệu",
+    "daterange": "Từ ngày - Đến ngày",
+    "type": "Loại hàng",
+    "category": "Phân loại",
+    "staff": "Nhân viên",
+    "supplier": "Nhà cung cấp"
+  },
+  "inventory-import-book-table": {
+    "search": "Tìm mã nhập hàng",
+    "daterange": "Từ ngày - Đến ngày",
+    "payment_state": "Tình trạng thanh toán",
+    "type": "Loại hàng",
+    "supplier": "Nhà cung cấp"
+  },
+  "inventory-export-book-table": {
+    "search": "Tìm mã xuất hàng",
+    "daterange": "Từ ngày - Đến ngày",
+    "status": "Trạng thái",
+    "type": "Loại hàng"
+  },
+  "print-barcode": {
+    "search": "Tìm kiếm mã SKU/ Tên sản phẩm"
+  },
+  "ingredients-table": {
+    "search": "Tìm tên nguyên vật liệu"
+  },
+  "recipe-table": {
+    "search": "Tìm tên công thức"
+  },
+  "commission-table": {
+    "search": "Tìm theo tên / số điện thoại",
+    "sender_phone": "Tìm theo SDT người giới thiệu",
+    "upgrade_package": "Gói nâng cấp",
+    "non_upgrade": "Chưa nâng cấp",
+    "month_6": "Pro 6 tháng",
+    "year_1": "Pro 1 năm",
+    "year_2": "Pro 2 năm",
+    "year_3": "Pro 3 năm",
+    "plus_year_1": "Plus 1 năm"
+  },
+  "stocktaking-table": {
+    "all": "Tất cả",
+    "search": "Tìm mã phiếu kiểm kho",
+    "product": "Sản phẩm",
+    "ingredient": "Nguyên vật liệu",
+    "product_type": "Loại hàng hóa",
+    "search_staff": "Tìm nhân viên",
+    "staff": "Nhân viên",
+    "daterange": "Từ ngày - Đến ngày"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "printer_setting_guide": "Hướng dẫn cài đặt máy in",
+  "export_pdf": "Xuất file PDF",
+  "printing_products": "Sản phẩm in tem",
+  "select_paper_size": "Chọn khổ giấy in",
+  "select_size_quantity": "Chọn kích cỡ, số lượng",
+  "stamp_template": "Mẫu tem in",
+  "create_product": "Tạo sản phẩm",
+  "print_size": {
+    "name": "Tên",
+    "price": "Giá bán",
+    "barcode": "Mã SKU",
+    "product_name": "Tên sản phẩm",
+    "size_2_stamps": "Khổ 2 tem",
+    "size_3_stamps": "Khổ 3 tem",
+    "size_a4": "Khổ giấy A4",
+    "size_a5": "Khổ giấy A5",
+    "size_72x22": "Khổ 72x22 mm (2.83x0.86 inch)",
+    "size_74x22": "Khổ 74x22 mm (2.91x0.86 inch)",
+    "size_110x22": "Khổ 110x22 mm (4.33x0.86 inch)",
+    "size_tomy_no138": "Tomy No.138 - 100 tem",
+    "size_tomy_no145": "Tomy No.145 - 65 tem",
+    "size_tomy_no146": "Tomy No.146 - 180 tem",
+    "size_tomy_no108": "Tomy No.108 - 40 tem"
+  },
+  "sku-table": {
+    "sku": "SKU",
+    "product": "Sản phẩm",
+    "quantity": "Số lượng",
+    "quantity_print": "SL in",
+    "retail_price": "Giá bán lẻ"
+  },
+  "empty_state": {
+    "summary": "Bạn chưa có sản phẩm nào để in tem!"
+  },
+  "warning": {
+    "please_update_sku_code": "Vui lòng cập nhật mã sản phẩm",
+    "please_choose_product_print": "Vui lòng chọn sản phẩm để in tem",
+    "please_choose_size_print": "Vui lòng chọn khổ in"
+  }
+}

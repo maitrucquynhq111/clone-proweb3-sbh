@@ -1,0 +1,101 @@
+{
+  "import-goods-info": "Import information",
+  "export-goods-info": "Export information",
+  "import-products": "Import products",
+  "export-products": "Export list",
+  "supplier": "Supplier",
+  "classify": "Classify",
+  "more-information": "Information",
+  "note": "Note",
+  "inventory": "Inventory",
+  "transaction_images": "Transaction image",
+  "at_least_one_product_import_goods": "There must be at least one product/ingredients in the import goods order!",
+  "at_least_one_product_export_goods": "There must be at least one product/ingredients in the export goods order!",
+  "must-pay": "I must pay",
+  "must-receive": "I must receive",
+  "total-quantity": "Total quantity",
+  "total-price-product": "Total price",
+  "grand-total-price": "Grand total price",
+  "total-discount": "Discount",
+  "buyer-pay": "Buyer pay",
+  "debt_paid": "Paid",
+  "delivery": "Delivery",
+  "debit": "Debit",
+  "created_by": "Created by",
+  "surcharge": "Surcharge",
+  "supplier_info": "Supplier Information",
+  "refund": "Refund",
+  "save_to_cashbook": "Record transactions in cashbook",
+  "debitited": "Debitited",
+  "payment_source": "Payment source",
+  "change_money": "Change money",
+  "ticket": {
+    "import_goods_ticket": "Import goods ticket",
+    "export_goods_ticket": "Export goods ticket",
+    "creator": "Creator",
+    "time": "Time",
+    "date_import": "Date import",
+    "date_export": "Date export",
+    "note": "Note",
+    "pricing": "Price",
+    "pricing-total": "Total Price",
+    "quantity": "Quantity",
+    "name": "Tên",
+    "need_to_pay_supplier": "Need to pay supplier",
+    "paid_supplier": "Paid supplier",
+    "paid_remaining_supplier": "Paid remaining"
+  },
+  "modal": {
+    "cancel_import_goods": "Cancel import goods order",
+    "cancel_import_goods_description": "Transactions related to this order will be deleted. Want to delete the related transaction?",
+    "cancel_export_goods": "Cancel export goods order",
+    "cancel_export_goods_description": "The export goods order information will be cancelled. Are you sure you want to do it?",
+    "delete_export_goods": "Delete export goods order",
+    "delete_export_goods_description": "All export goods order information will be deleted. Are you sure you want to do it?",
+    "exit_not_save": "Canceled update export goods order?",
+    "exit_not_save_description": "The export goods order information will not be saved when clicking Back"
+  },
+  "action": {
+    "download": "Download receipt",
+    "print": "Print receipt",
+    "save": "Save order"
+  },
+  "placeholder": {
+    "contact": "Enter supplier name/phone number",
+    "description": "Add a note to the entry form",
+    "search_product": "Search by product name, SKU code, ingredient"
+  },
+  "empty_state": {
+    "summary-purchase": "There are no products in this order!",
+    "summary-adjust": "Find and select products/ingredients to start export!"
+  },
+  "sku-table": {
+    "sku": "SKU",
+    "product": "Product",
+    "quantity": "Quantity",
+    "quantity-export": "Quantity export",
+    "after-decrease": "After reduction",
+    "historical_cost": "Historical cost",
+    "total_price": "Total price"
+  },
+  "ingredient-table": {
+    "ingredient": "Ingredient",
+    "uom": "Unit",
+    "quantity": "Quantity",
+    "historical_cost": "Historical cost",
+    "total_price": "Total price"
+  },
+  "success": {
+    "create-import-goods": "Successfully created import goods order",
+    "create-export-goods": "Successfully created export goods order",
+    "save-export-goods": "Successfully save export goods order",
+    "download": "Download receipt successfully",
+    "cancel-purchase": "Cancellation of goods receipt successfully",
+    "payment_purchase": "Order payment successful",
+    "delete_export_goods": "Successfully deleted export export order"
+  },
+  "error": {
+    "max_image_length": "Max 3 images",
+    "min_payment_amount": "Payment amount must be greater than 0"
+  }
+}

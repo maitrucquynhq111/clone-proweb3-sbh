@@ -1,0 +1,41 @@
+{
+  "contact_group_name": "Tên nhóm khách hàng",
+  "select_contact": "Chọn khách hàng",
+  "empty_state_contact": "Chưa có khách hàng nào trong danh sách",
+  "delete_contact_group": "Xoá nhóm khách hàng?",
+  "delete_contact_group_description": "Bạn có chắc muốn thực hiện?",
+  "contact_list_tab": "Danh sách khách hàng",
+  "info_tab": "Thông tin",
+  "condition": "Điều kiện",
+  "potential_customer": "Khách hàng tiềm năng",
+  "new_customer": "Khách hàng mới",
+  "dob_this_month_customer": "Khách có sinh nhật trong tháng",
+  "suggest_contact_group_desc": " Gợi ý cho bạn: Những nhóm khách hàng này đã được tạo sẵn cho bạn. Chọn một nhóm khách hàng để thiết lập hoặc tùy chỉnh nhóm khách hàng đó để phù hợp với nhu cầu của bạn",
+  "placeholder": {
+    "name": "Ví dụ: Nhà cung cấp",
+    "search_contact": "Tìm tên khách hàng/số điện thoại"
+  },
+  "action": {
+    "create_contact": "Tạo khách hàng",
+    "create_group": "Tạo nhóm",
+    "delete_selected": "Xoá đã chọn",
+    "confirm": "Xác nhận",
+    "add_contact": "Thêm khách hàng",
+    "refresh": "Tải lại",
+    "donwload_contact": "Tải khách hàng"
+  },
+  "success": {
+    "create": "Tạo nhóm khách hàng thành công",
+    "update": "Cập nhật nhóm khách hàng thành công",
+    "delete": "Xoá nhóm khách hàng thành công"
+  },
+  "error": {
+    "max_name": "Tối đa 30 ký tự"
+  },
+  "modal": {
+    "exit_without_save_title": "Hủy cập nhật nhóm khách hàng?",
+    "exit_without_save_desc": "Thông tin nhóm khách hàng vừa cập nhật sẽ không được lưu. Bạn có chắc rằng muốn thực hiện?",
+    "delete_group_title": "Xóa nhóm khách hàng",
+    "delete_group_desc": "Toàn bộ thông tin nhóm khách hàng sẽ bị xóa. Bạn có chắc muốn thực hiện?"
+  }
+}

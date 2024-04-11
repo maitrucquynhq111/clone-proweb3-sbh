@@ -1,0 +1,13 @@
+{
+  "order_info": "Order info",
+  "created_at": "Created at",
+  "staff": "Staff",
+  "total": "Total",
+  "status": "Status",
+  "created_by": "Created by",
+  "status_filter": {
+    "completed": "Completed",
+    "processing": "Processing",
+    "cancelled": "Cancelled"
+  }
+}

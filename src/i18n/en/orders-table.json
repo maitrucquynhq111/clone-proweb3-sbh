@@ -1,0 +1,20 @@
+{
+  "order_number": "Order info",
+  "grand_total": "Total",
+  "state": "State",
+  "payment": "Payment",
+  "created_at": "Create at",
+  "refund_at": "Refund at",
+  "complete_at": "Complete at",
+  "cancelled_at": "Cancelled at",
+  "action": "Action",
+  "paid": "Paid",
+  "unpaid": "Unpaid",
+  "partial_payment": "Partial payment",
+  "action_button": {
+    "confirm": "Confirm",
+    "delivered": "Delivered"
+  },
+  "multiple-cancel-content": "Are you sure you want to cancel the selected orders?",
+  "multiple-cancel-confirm": "Cancel selected orders"
+}

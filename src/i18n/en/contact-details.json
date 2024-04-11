@@ -1,0 +1,72 @@
+{
+  "current_points": "Current points",
+  "total_points_changed": "Total points changed",
+  "edit_point_history": "Points correction history",
+  "created_by": "Created by",
+  "edit_point": "Points correction",
+  "last_updated": "Last updated",
+  "change_current_point": "Change current point",
+  "will": "Will",
+  "compare_with_previous": "from the previous point",
+  "delete_note": "Delete customer notes",
+  "delete_note_description": "Are you sure you want to do it??",
+  "order": "order",
+  "connected": "Contact",
+  "placeholder": {
+    "contact_note": "Type a note and press Enter to save"
+  },
+  "top_bought_products": {
+    "index": "Index",
+    "product": "Product",
+    "number_of_bought": "Number of purchases"
+  },
+  "details-tab": {
+    "overview": "Overview",
+    "message": "Messages",
+    "order": "Orders",
+    "points": "Customer points",
+    "debt": "Debt"
+  },
+  "analytics": {
+    "revenue": "Revenue",
+    "delivered_order": "Delivered orders",
+    "debt": "Debt",
+    "return_order": "Return orders"
+  },
+  "empty_state": {
+    "phone_number": "No phone number yet",
+    "email": "No email yet",
+    "birthday": "No birthday yet",
+    "address": "No address yet",
+    "no_bought_product": "The customer has not purchased any products from you.",
+    "no_interaction": "No interactions with this guest yet.",
+    "contact_label": "Label customers to categorize and sort by group.",
+    "contact_group": "Categorize customers into large groups based on broader criteria to create marketing and customer management strategies.",
+    "customer_point": "This customer needs a phone number to earn points."
+  },
+  "title": {
+    "contact_info": "Customer information",
+    "top_bought_products": "Top bought products",
+    "last_order": "Last order",
+    "interaction_history": "Interaction history",
+    "contact_label": "Contact label",
+    "contact_group": "Contact group",
+    "customer_point": "Customer point",
+    "note": "Note"
+  },
+  "action": {
+    "add_phone_number": "Add phone number",
+    "create_transaction": "Create transaction",
+    "create_order": "Create order",
+    "create_debt_gave": "Create debt: I gave",
+    "create_debt_paid": "Create debt: I Paid",
+    "update_point": "Editing points",
+    "group_management": "Group management",
+    "label_management": "Label management"
+  },
+  "success": {
+    "create_note": "Successful note creation",
+    "update_note": "Update note successfully",
+    "delete_note": "Deleted notes successfully"
+  }
+}

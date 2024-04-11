@@ -1,0 +1,39 @@
+{
+  "name": "Customer",
+  "contact_groups": "Group",
+  "contact_tags": "Tag",
+  "order": "Order",
+  "order_shorten": "order",
+  "contact_shorten": "customer",
+  "latest_order": "Last order",
+  "phone_number": "Phone number",
+  "state": "Total order delivered",
+  "customer_point": "Customer point",
+  "point": "Point",
+  "debt_amount": "Debt amount",
+  "action": "Action",
+  "add_to_group": "Add to group",
+  "create_contact_group": "Create customer group",
+  "create_order": "Create order",
+  "delete_contact": "Delete customer?",
+  "delete_contact_description": "Are you sure you want to delete this customer?",
+  "delete_contact_transaction_description": "Customers have unfinished transactions. Are you sure you want to delete this customer?",
+  "display_setting": "Display setting",
+  "display_setting_description": "Select at least 1 and up to 4 displays",
+  "delivered_order": "Delivered order",
+  "total_revenue": "Total revenue",
+  "placeholder": {
+    "search_contact_group": "Find customer group name"
+  },
+  "success": {
+    "delete": "Delete customer successfully"
+  },
+  "analytic": {
+    "last_create": "New contact",
+    "contact_back": "Returning contact",
+    "amount_in": "Must receive",
+    "amount_out": "Must pay",
+    "customer_point": "Customer point",
+    "order": "Total orders"
+  }
+}
